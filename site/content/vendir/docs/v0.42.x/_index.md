@@ -3,7 +3,7 @@
 title: "About vendir"
 toc: "false"
 cascade:
-  version: v0.41.x
+  version: v0.42.x
   toc: "true"
   type: docs
   layout: docs
